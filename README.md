@@ -1,1 +1,2 @@
-# heroku_weather_app
+# heroku-django-react
+heroku-django-react
